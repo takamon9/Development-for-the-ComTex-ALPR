@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\opencv310\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\opencv310\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\opencv310\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+C:\opencv310\opencv\build\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (932). Save the file in Unicode format to prevent data loss
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(29): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(196): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(214): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(215): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(220): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(221): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(238): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(238): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(239): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(239): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(240): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\preFunction.h(240): warning C4244: 'initializing': conversion from 'double' to 'const int', possible loss of data
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\neuralNetwork.h(60): warning C4102: 'cv': unreferenced label
+c:\opencv310\opencv\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv310\opencv\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(58): warning C4715: 'loadNueron': not all control paths return a value
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(85): warning C4715: 'accessCascade': not all control paths return a value
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(163): warning C4715: 'readOriginal': not all control paths return a value
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(74): warning C4715: 'accessIpCamera': not all control paths return a value
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(131): warning C4700: uninitialized local variable 'rowCount' used
+c:\users\gmwha\documents\visual studio 2015\projects\developmentforalpr\developmentforalpr\prefunction.h(132): warning C4700: uninitialized local variable 'columnCount' used
+c:\opencv310\opencv\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv310\opencv\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv310\opencv\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv310\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv310\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  main.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+main.obj : warning LNK4248: unresolved typeref token (01000014) for 'CvFileStorage'; image may not run
+  developmentForALPR.vcxproj -> C:\Users\gmwha\documents\visual studio 2015\Projects\developmentForALPR\x64\Debug\developmentForALPR.exe
+  developmentForALPR.vcxproj -> C:\Users\gmwha\documents\visual studio 2015\Projects\developmentForALPR\x64\Debug\developmentForALPR.pdb (Partial PDB)
