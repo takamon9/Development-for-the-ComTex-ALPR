@@ -3,15 +3,18 @@
 
 
 #include "programHeader.h"
+enum class camMaker { canon, panasonic, axis, sony };
+
+////////////////////////////Set this part//////////////////////////////////////////
 
 string ipCamID = "root";
 string ipCamPassword = "taka1974";
 string ip_Num = "192.168.100.30";
 string cameraAddress;
 int imageSaveRate = 3;
-
-enum class camMaker { canon, panasonic, axis, sony };
 camMaker makerName = camMaker::canon ; // choose camra maker.
+
+///////////////////////////////////////////////////////////////////////////////////
 
 void seletCamera() {
 
